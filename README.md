@@ -1,6 +1,6 @@
 # SQL---Retail-Sales-Analysis
 ...sql
-SELECT count(*) FROM [SQL - Retail Sales Analysis_utf ]
+	SELECT count(*) FROM [SQL - Retail Sales Analysis_utf ]
 ...
 
 ##Data Cleaning
